@@ -1,33 +1,55 @@
-# th-claude-skills
+# AI Maturity
 
-Skills para o Claude criadas por [Thiago Almeida](https://github.com/thiagoalmmeida) — Product Designer com foco em AI-Driven Design.
+A framework to evaluate your AI maturity level — and what to do next.
 
-Cada skill é um arquivo de instrução que define como o Claude se comporta em contextos específicos de produto e design. Não são prompts genéricos — são parceiros com identidade, método e limites claros.
-
----
-
-## Skills disponíveis
-
-| Skill | Descrição | Download |
-|-------|-----------|----------|
-| [pm-partner](./pm-partner/SKILL.md) | PM sênior como parceiro estratégico, com Shape Up como base de raciocínio | [Download](https://raw.githubusercontent.com/thiagoalmmeida/th-claude-skills/main/pm-partner/SKILL.md) |
+Works for any professional: design, HR, marketing, sales, operations, engineering.
 
 ---
 
-## Como usar uma skill no Claude
+## What is it
 
-1. Acesse o link de download da skill
-2. Copie o conteúdo do arquivo
-3. No Claude, vá em **Settings → Skills** e crie uma nova skill
-4. Cole o conteúdo e salve
-5. Ative a skill na conversa com: `Use a skill [nome-da-skill].`
+A skill for Claude.ai that diagnoses your current AI maturity level based on what you've already built — or haven't — and delivers a concrete next move.
+
+Not a generic quiz. A honest assessment grounded in real evidence.
 
 ---
 
-## Sobre
+## How to install
 
-Sou Product Designer com 15 anos de experiência em produtos digitais B2C e B2B no Brasil e América Latina. Trabalhei na OLX, Nuvemshop, Zoom & Buscapé, Oi e Petrobras.
+1. Open [Claude.ai](https://claude.ai)
+2. Create a new Project
+3. Paste the content of `SKILL.md` into the Project instructions
+4. Start a conversation describing how you use AI today
 
-Meu foco atual é AI-Driven Design — usar IA para elevar a qualidade do processo de produto e design, não só acelerar entrega.
+The skill will ask a few questions and deliver a diagnosis in this format:
 
-[LinkedIn](https://www.linkedin.com/in/thiagoalmmeida)
+```
+NÍVEL ATUAL: L[X] — [Level name]
+
+O QUE VOCÊ JÁ TEM       → what confirms your level
+O QUE VOCÊ ESTÁ PERDENDO → what this level doesn't deliver yet
+O PRÓXIMO MOVIMENTO      → one concrete action to move forward
+HORIZONTE                → what the next level opens for your career
+```
+
+Followed by a quick reference of all 4 levels.
+
+---
+
+## The 4 levels
+
+| Level | Name | What it means | Multiplier |
+|---|---|---|---|
+| L0 | Curious Passive | Uses AI occasionally, no workflow changed | 0x |
+| L1 | Competent User | AI in daily routine, faster execution | 1x |
+| L2 | Builder | Built something real with AI | 5x |
+| L3 | Multiplier | Creates infrastructure that elevates others | 10x |
+
+---
+
+## Author
+
+Thiago Almeida — Product Designer.
+Built on top of frameworks from Ramp and Geoff Charles, adapted for any professional.
+
+[LinkedIn](https://www.linkedin.com/in/thiagoalmmeida/)

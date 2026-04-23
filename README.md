@@ -12,6 +12,8 @@ Cada skill é um arquivo de instrução que define como o Claude se comporta em 
 |-------|-----------|----------|
 | [pm-partner](./pm-partner/SKILL.md) | PM sênior como parceiro estratégico, com Shape Up como base de raciocínio | [Download](https://raw.githubusercontent.com/thiagoalmmeida/th-claude-skills/main/pm-partner/SKILL.md) |
 
+| [ai-maturity](ai-maturity) | Framework to evaluate AI maturity level for any professional | [Download](ai-maturity/SKILL.md) |
+
 ---
 
 ## Como usar uma skill no Claude

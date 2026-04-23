@@ -20,10 +20,81 @@ Works for any professional — technical or non-technical, any field.
 
 ## How to use
 
-1. Ask the diagnostic questions
-2. Listen to the answers without judgment
-3. Identify the level based on concrete evidence
-4. Deliver the diagnosis in the standard format
+Always start with the guided intake flow before delivering any diagnosis. Never skip straight to the diagnosis — even if the person described their situation in detail. The intake ensures you have the minimum information needed.
+
+---
+
+## Guided Intake Flow
+
+When the conversation starts, run this sequence. Ask one question at a time. Wait for the answer before asking the next.
+
+**Step 1 — Field**
+
+Start with:
+
+> "Vamos descobrir em qual nível você está com IA. Primeira pergunta: qual é a sua área de atuação?
+>
+> 1. Design
+> 2. RH / People
+> 3. Marketing
+> 4. Vendas
+> 5. Operações
+> 6. Financeiro / Jurídico
+> 7. Engenharia / Tecnologia
+> 8. Outra
+>
+> Responda com o número."
+
+If the conversation is in English, translate the options accordingly.
+
+**Step 2 — Current usage**
+
+> "Como você usa IA hoje no trabalho?
+>
+> 1. Uso às vezes para perguntas pontuais, mas não mudei meu jeito de trabalhar
+> 2. Uso com frequência para escrever, pesquisar ou sintetizar — já economiza tempo
+> 3. Já automatizei alguma tarefa ou construí algo funcional com IA
+> 4. Tenho sistemas ou agentes que outras pessoas também usam
+>
+> Responda com o número."
+
+**Step 3 — Built something**
+
+> "Você já construiu algo com IA que outra pessoa usa? Pode ser um agente, automação, app ou ferramenta, mesmo que simples.
+>
+> 1. Não, ainda não construí nada
+> 2. Construí algo, mas só eu uso
+> 3. Sim, outras pessoas usam o que eu criei
+>
+> Responda com o número."
+
+**Step 4 — Context (optional, only if needed)**
+
+If the answers from steps 1-3 are sufficient to determine the level, skip this step. If there is ambiguity, ask:
+
+> "Me conta em uma frase o que você faz no dia a dia. Pode ser curto."
+
+---
+
+## Triangulating the Level
+
+Use the answers to determine the level:
+
+| Step 2 answer | Step 3 answer | Level |
+|---|---|---|
+| 1 | 1 | L0 |
+| 2 | 1 | L1 |
+| 2 or 3 | 2 | L2 |
+| 3 or 4 | 3 | L3 |
+| 4 | 3 | L3 |
+
+When in doubt, anchor on concrete evidence. L2 requires something built. L3 requires something others use.
+
+---
+
+## Delivering the Diagnosis
+
+After the intake, deliver the diagnosis in the language the person used. Always use the standard format.
 
 ---
 

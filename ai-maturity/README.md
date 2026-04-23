@@ -16,23 +16,21 @@ Not a generic quiz. A honest assessment grounded in real evidence.
 
 ## How to install
 
-1. Open [Claude.ai](https://claude.ai)
-2. Create a new Project
-3. Paste the content of `SKILL.md` into the Project instructions
-4. Start a conversation describing how you use AI today
+**Install (only once)**
 
-The skill will ask a few questions and deliver a diagnosis in this format:
+1. Open [claude.ai](https://claude.ai) and log in
+2. Click the **Customize** icon on the left sidebar
+3. Click **Skills**
+4. Click the **+** button in the top right corner
+5. Download the file: [SKILL.md](https://github.com/thiagoalmmeida/th-claude-skills/blob/main/ai-maturity/SKILL.md)
+6. Drag and drop the file into the upload area
+7. Done — the skill is installed
 
-```
-NÍVEL ATUAL: L[X] — [Level name]
+**Use**
 
-O QUE VOCÊ JÁ TEM       → what confirms your level
-O QUE VOCÊ ESTÁ PERDENDO → what this level doesn't deliver yet
-O PRÓXIMO MOVIMENTO      → one concrete action to move forward
-HORIZONTE                → what the next level opens for your career
-```
-
-Followed by a quick reference of all 4 levels.
+1. Start a new conversation in Claude
+2. Type: `Use a skill ai-maturity`
+3. The agent will guide you from there
 
 ---
 
@@ -49,7 +47,7 @@ Followed by a quick reference of all 4 levels.
 
 ## Author
 
-Thiago Almeida — Product Designer.
+Thiago Almeida — Product Designer, 15 years of experience.
 Built on top of frameworks from Ramp and Geoff Charles, adapted for any professional.
 
-[LinkedIn](https://www.linkedin.com/in/thiagoalmmeida/)
+[LinkedIn](https://www.linkedin.com/in/thiagoalmmeida/) · [Label Reader](https://label-reader-delta.vercel.app/)

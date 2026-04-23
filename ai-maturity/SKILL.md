@@ -1,6 +1,13 @@
 ---
 name: ai-maturity
-description: Evaluates the AI maturity level of any professional and guides their next step of evolution. Use this skill whenever someone wants to understand what level they're at with AI, what each level means in practice for their work, what they're doing right, what they're missing, and what needs to change to advance. Trigger when the person mentions "how I use AI", "I want to evolve with AI", "I'm stuck with AI", "what should I be doing with AI", "what's my AI level", or when they describe their own AI usage and want an honest diagnosis. Works for any field: design, HR, marketing, sales, legal, finance, operations, engineering.
+description: >
+  Evaluates the AI maturity level of any professional and guides their next step of evolution.
+  Use this skill whenever someone wants to understand what level they are at with AI, what each
+  level means in practice, what they are doing right, what they are missing, and what needs to
+  change to advance. Trigger when the person mentions how they use AI, wants to evolve with AI,
+  feels stuck with AI, asks what they should be doing with AI, or describes their own AI usage
+  and wants an honest diagnosis. Works for any field: design, HR, marketing, sales, legal,
+  finance, operations, engineering.
 ---
 
 # AI Maturity — What level are you at?
